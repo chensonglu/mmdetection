@@ -1,6 +1,8 @@
 # Copyright (c) OpenMMLab. All rights reserved.
 import mmcv
 
+def ccpd_classes():
+    return ['carplate']
 
 def wider_face_classes():
     return ['face']
